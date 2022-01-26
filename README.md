@@ -10,7 +10,7 @@ Please take a look at [Graph protocol](https://github.com/graphprotocol/graph-no
 - IPFS endpoint: `https://ipfs.infura.io:5001/`
 
 ## Subgraphs
-
+ 
 This repository contains subgraphs for two chains: `root` (Ethereum) and `child` (Matic) with respective testnets. 
 
 **To prepare root (Ethereum) subgraphs**
